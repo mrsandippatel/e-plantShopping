@@ -1,1 +1,1 @@
-# coding-project-template
+# this is an e-plantShopping website as a react learning course test.
